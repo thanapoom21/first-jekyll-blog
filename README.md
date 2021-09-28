@@ -61,7 +61,7 @@ bundle exec jekyll serve
 bundle exec jekyll build
 ```
 
-### To serve locally and see how the site will work when deployinh for production
+### To serve locally and see how the site will work when deploying for production
 
 ```ruby
 JEKYLL_ENV=production bundle exec jekyll serve
