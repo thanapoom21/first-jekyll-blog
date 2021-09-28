@@ -16,7 +16,7 @@
 title: Tech Docs
 email: thanapoom.p.music@gmail.com
 description: The storage for technology related documentations.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/web-dev-library" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -38,7 +38,6 @@ aux_links:
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
