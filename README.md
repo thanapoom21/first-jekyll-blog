@@ -52,7 +52,7 @@ Tips: baseurl and url key in \_config.yml file can cause issue when pushing to G
 ### To serve and test locally
 
 ```ruby
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
 ### To build for production
