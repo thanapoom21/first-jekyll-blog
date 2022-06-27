@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tech Docs
+title: TP Docs
 email: thanapoom.p.music@gmail.com
 description: Technology related documentations.
 baseurl: "/first-jekyll-blog" # the subpath of your site, e.g. /blog
@@ -65,8 +65,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "TP Docs on GitHub":
+    - "//github.com/thanapoom21/first-jekyll-blog"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
