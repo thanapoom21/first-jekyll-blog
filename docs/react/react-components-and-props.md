@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'React - Components and Props'
-nav_order: 14
+parent: React
+nav_order: 1
 description: "Components and Props in React"
 ---
 

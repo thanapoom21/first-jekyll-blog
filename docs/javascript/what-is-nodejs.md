@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'What is node.js?'
-nav_order: 7
+parent: Javascript
+nav_order: 1
 description: "A breif explaination of node.js and its popularity."
 ---
 

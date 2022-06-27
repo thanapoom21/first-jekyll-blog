@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "What actually is Amazon S3?"
-nav_order: 6
+title: "Amazon S3?"
+parent: Storage & Server
+nav_order: 1
 description: "Amazon Web Services"
 ---
 

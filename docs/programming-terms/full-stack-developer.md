@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'Full Stack Developer'
-nav_order: 31
+parent: Programming Terms
+nav_order: 3
 description: "What do I need to be a Full Stack Developer?"
 ---
 

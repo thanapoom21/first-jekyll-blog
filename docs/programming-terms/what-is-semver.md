@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "What is SemVer?"
-nav_order: 32
+parent: Programming Terms
+nav_order: 1
 description: "A breif explaination of semantic versioning"
 ---
 

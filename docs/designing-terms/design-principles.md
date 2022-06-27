@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Design Principles"
-nav_order: 30
+parent: Designing Terms
+nav_order: 2
 description: "Basic Design Principles for Everyone"
 ---
 

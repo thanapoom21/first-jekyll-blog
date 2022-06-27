@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Getting, Setting, Manipulating, and Traversing
+title: Get, Set, Manipulate, and Traverse
+parent: jQuery
 nav_order: 2
-has_children: true
-permalink: /docs/jQuery-docs
 description: "Getting, Setting, Manipulating, and Traversing in Action"
 ---
 

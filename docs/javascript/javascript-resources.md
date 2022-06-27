@@ -1,8 +1,9 @@
 ---
 layout: default
 title: JavaScript Resources
-parent: Functional Programming in JavaScript
+parent: Javascript
 nav_order: 3
+description: "JavaScript Resources on REPL and IDE"
 ---
 
 ## JavaScript Resources

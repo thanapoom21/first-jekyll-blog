@@ -1,10 +1,9 @@
 ---
 layout: default
-title:  Functional Programming in JavaScript
+title:  Functional Programming
+parent: Javascript
 nav_order: 2
-has_children: true
-permalink: /docs/javascript-docs
-description: "Functional Programming in JavaScript"
+description: "Functional Programming"
 ---
 
 ## Learn About Functional Programming

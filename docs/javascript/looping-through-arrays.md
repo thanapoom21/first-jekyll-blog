@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Looping Through Arrays
-parent: Functional Programming in JavaScript
-nav_order: 2
+parent: Javascript
+nav_order: 4
+description: "Looping Through Arrays in JavaScript"
 ---
 
 ## Looping Through Arrays

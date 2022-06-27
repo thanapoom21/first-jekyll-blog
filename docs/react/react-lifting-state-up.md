@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'React - Lifting State Up'
-nav_order: 15
+parent: React
+nav_order: 5
 description: "State Lifting in React"
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Getting to know PostgreSQL?"
-nav_order: 5
+title: "Postgres"
+parent: Storage & Server
+nav_order: 2
 description: "PostgreSQL is a powerful, open source object-relational database system."
 ---
 

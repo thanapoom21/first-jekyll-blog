@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'React - Conditional Rendering'
-nav_order: 12
+parent: React
+nav_order: 4
 description: "Conditionally Rendering Components in React"
 ---
 

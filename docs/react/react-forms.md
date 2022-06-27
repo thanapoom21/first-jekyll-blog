@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'React - Forms'
-nav_order: 13
+parent: React
+nav_order: 7
 description: "Forms in React"
 ---
 

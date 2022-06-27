@@ -1,7 +1,8 @@
 ---
 layout: default
 title:  'React - Handling Events'
-nav_order: 10
+parent: React
+nav_order: 6
 description: "Handling Events in React"
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "What is object-oriented programming?"
-nav_order: 33
+parent: Programming Terms
+nav_order: 2
 description: "A breif explaination of object-oriented programming"
 ---
 
