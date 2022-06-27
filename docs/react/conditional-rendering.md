@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - Conditional Rendering'
+title:  'Conditional Rendering'
 parent: React
 nav_order: 4
-description: "Conditionally Rendering Components in React"
+description: "Conditionally Rendering Components"
 ---
 
 ## [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)

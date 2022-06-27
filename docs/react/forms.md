@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - Forms'
+title:  'Forms'
 parent: React
 nav_order: 7
-description: "Forms in React"
+description: "Forms"
 ---
 
 ## Controlled Components

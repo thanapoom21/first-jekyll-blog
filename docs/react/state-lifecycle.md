@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - State and Lifecycle'
+title:  'State and Lifecycle'
 parent: React
 nav_order: 2
-description: "Introducing the concept of state and lifecycle in a React component"
+description: "Introducing the concept of state and lifecycle"
 ---
 
 ## [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)

@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - Handling Events'
+title:  'Handling Events'
 parent: React
 nav_order: 6
-description: "Handling Events in React"
+description: "Handling Events"
 ---
 
 ## [Handling Events](https://reactjs.org/docs/handling-events.html)

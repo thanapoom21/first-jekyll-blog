@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - Lists and Keys'
+title:  'Lists and Keys'
 parent: React
 nav_order: 3
-description: "Why Are Lists And Keys Important in React?"
+description: "Why Are Lists And Keys Important?"
 ---
 
 ## [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)

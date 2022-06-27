@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  'React - Lifting State Up'
+title:  'Lifting State Up'
 parent: React
 nav_order: 5
-description: "State Lifting in React"
+description: "State Lifting"
 ---
 
 ## Lifting State Up
